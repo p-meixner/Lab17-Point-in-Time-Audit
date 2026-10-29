@@ -1,0 +1,71 @@
+{
+  "download_date": "2026-10-29",
+  "known_answer": {
+    "BAA": {
+      "Last measured as known": "2026-09-01",
+      "Value as known": 6.47,
+      "Last measured today": "2026-09-01",
+      "Value today": 6.47,
+      "Later values": 0,
+      "Revised shared dates": 0
+    },
+    "FEDFUNDS": {
+      "Last measured as known": "2026-09-01",
+      "Value as known": 3.75,
+      "Last measured today": "2026-09-01",
+      "Value today": 3.75,
+      "Later values": 0,
+      "Revised shared dates": 0
+    },
+    "DGS10": {
+      "Last measured as known": "2026-10-02",
+      "Value as known": 5.28,
+      "Last measured today": "2026-10-27",
+      "Value today": 4.99,
+      "Later values": 16,
+      "Revised shared dates": 0
+    },
+    "MORTGAGE30US": {
+      "Last measured as known": "2026-10-01",
+      "Value as known": 7.28,
+      "Last measured today": "2026-10-29",
+      "Value today": 7.24,
+      "Later values": 4,
+      "Revised shared dates": 0
+    }
+  },
+  "DGS10": {
+    "2026-09-30": {
+      "Last measured as known": "2026-09-29",
+      "Value as known": 5.26,
+      "Last measured today": "2026-10-27",
+      "Value today": 4.99,
+      "Later values": 19,
+      "Revised shared dates": 0
+    },
+    "2026-10-29": {
+      "Last measured as known": "2026-10-27",
+      "Value as known": 4.99,
+      "Last measured today": "2026-10-27",
+      "Value today": 4.99,
+      "Later values": 0,
+      "Revised shared dates": 0
+    },
+    "latest_three": {
+      "2026-10-23": 5.0,
+      "2026-10-26": 5.0,
+      "2026-10-27": 4.99
+    }
+  },
+  "PAYEMS_probe": {
+    "Last measured as known": "2024-12-01",
+    "Value as known": 159536.0,
+    "Last measured today": "2026-09-01",
+    "Value today": 159044.0,
+    "Later values": 21,
+    "Revised shared dates": 381,
+    "December 2024 then": 159536.0,
+    "December 2024 today": 158316.0
+  },
+  "app_checks": "PASS: default four series, historical date, PAYEMS addition, unknown-ID isolation"
+}
